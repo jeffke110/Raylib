@@ -1,0 +1,23 @@
+﻿  Cubie.cpp
+C:\Users\User\source\repos\Rubix Cube\Rubix Cube\Cubie.cpp(15,10): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Rubix Cube\Rubix Cube\Cubie.cpp(16,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Rubix Cube\Rubix Cube\Cubie.cpp(17,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Rubix Cube\Rubix Cube\Cubie.cpp(22,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+C:\Users\User\source\repos\Rubix Cube\Rubix Cube\main.cpp(55,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Rubix Cube\Rubix Cube\main.cpp(68,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Rubix Cube\Rubix Cube\main.cpp(68,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Rubix Cube\Rubix Cube\main.cpp(81,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Rubix Cube\Rubix Cube\main.cpp(82,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Rubix Cube\Rubix Cube\main.cpp(85,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  RubixCube.cpp
+C:\Users\User\source\repos\Rubix Cube\Rubix Cube\RubixCube.cpp(6,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Rubix Cube\Rubix Cube\RubixCube.cpp(6,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Rubix Cube\Rubix Cube\RubixCube.cpp(6,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Rubix Cube\Rubix Cube\RubixCube.cpp(13,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Rubix Cube\Rubix Cube\RubixCube.cpp(16,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Rubix Cube\Rubix Cube\RubixCube.cpp(17,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Rubix Cube\Rubix Cube\RubixCube.cpp(20,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Rubix Cube\Rubix Cube\RubixCube.cpp(21,20): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating Code...
+  Rubix Cube.vcxproj -> C:\Users\User\source\repos\Rubix Cube\x64\Debug\Rubix Cube.exe
